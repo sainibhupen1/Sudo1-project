@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/sainibhupen1/Sudo1-project.git",
+  "homepage": "https://sainibhupen1.github.io/Sudo1-project",
   "dependencies": {
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
